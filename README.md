@@ -51,7 +51,7 @@ I have acquired excellent technical skills with various programming languages, t
 [![website](./img/instagram-light.svg)]()
 [![website](./img/instagram-dark.svg)]()
 
- ![Snake animation]()
+ ![Snake animation](https://github.com/ajayxverma/ajayxverma/blob/main/img/github-grid-snake.svg)
  
  ![Kapil Dev]()
  
