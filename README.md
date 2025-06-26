@@ -1,77 +1,66 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="38"> there, fellow DEVELOPER'S</h1>
-<h3 align="center">I'm a passionate Software Developer.</h3>
+<h1 align="center">Hi 👋, I'm Kapil Dev</h1>
 
 <p align="center">
-<img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" /> <b><i align="center">Thought : "Hard work beats talent, when talent doesn't work Hard!!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+  🚀 Full Stack Developer | Backend Specialist | DSA Enthusiast  
 </p>
 
-<div align="center">
- <!---
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+sans&weight=540&size=32&pause=1000&color=FF1493&width=435&lines=Hey!+It's+Ajay+Verma;I'm+a+Software+Developer;I+%E2%9D%A4+LeetCode+Web+3.0)](https://git.io/typing-svg) --->
-  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+sans&weight=540&size=32&pause=1000&color=FF1493&width=435&lines=Hey!+It's+Kapil+Dev;I'm+a+Software+Developer;I+%E2%9D%A4+LeetCode+Web+3.0)](https://git.io/typing-svg" />
- 
-</div>
-I'm a Software Engineer, I currently working as Full Stack Developer with Strong knowledge of Java, Spring, Spring
-Boot, NodeJs, Express, NestJs, ReactJs, Angular, MicroServices, Database and having years of experience in the field, I am skilled in developing quality programs.
-Excellent knowledge of software design and development especially data structures and product-oriented designs.
-I developed effective, high-quality, scalable software solutions. I love to learn new technologies and frameworks.
-I have acquired excellent technical skills with various programming languages, tools, software packages. With my analytical approach and reasoning, I am capable of breaking down any real-world problem into simple logical issues and address them one by one to build a robust solution for the real problem.
+---
 
-## About Me
+## 👨‍💻 About Me
 
-- 🌱 I’m currently learning ExpressJS and MicorServices.
-- 👀 I’m interested in Web Development, AI, Machine learning, Cloud.
-- 👯 I’m looking to collaborate on Opensoure Projects
-- ⚡ Fun fact: I love Coding and play Games.
+🎯 I'm a Full Stack Developer with 3+ years of experience in building scalable web platforms using **Spring Boot**, **React**, and modern cloud-native architectures.
 
-## Languaages and Framework:<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px height="38">
+🧭 After a year of preparing for the UPSC examination, I’ve returned to tech with laser focus — actively solving DSA, building system design projects, and targeting **top product-based companies**.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Kapil-dev-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Kapil-dev-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Kapil-dev-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Kapil-dev-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Kapil-dev-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Kapil-dev-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Kapil-dev-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg">
-  <img align="center" alt="Kapil-dev-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-   
- 
-</div>
+---
 
-## Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="38">
-<p align="left">
+## 🛠️ Tech Stack
 
-[![website](./img/twitter-light.svg)]()
-[![website](./img/twitter-dark.svg)]()
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)]()
-[![website](./img/linkedin-dark.svg)]()
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)]()
-[![website](./img/instagram-dark.svg)]()
+**Languages:**  
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
- ![Snake animation](https://github.com/ajayxverma/ajayxverma/blob/main/img/github-grid-snake.svg)
- 
- ![Kapil Dev]()
- 
-<!---
-I am a Software Engineer. I develop effective, high-quality, scalable software solutions. I love to learn new technologies and frameworks.
-I have acquired decent technical skills with various programming languages, tools, software packages. With my analytical approach and reasoning, I am capable of breaking down any real-world problem into simple logical issues and address them one by one to build a robust solution for the real problem.
-kapilxdev/kapilxdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes. 
+**Frameworks & Tools:**  
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
-<!--
-**KapilXDev/KapilXDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 💼 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 [**Insurance Portal**](#) — A full-stack app to streamline policy purchases, premium tracking, and KYC.  
+🔹 [**Rate Limiter Service**](#) — Backend API using Redis & Spring Boot to control request flow.  
+🔹 [**Job Scheduler API**](#) — Scheduled task manager with queues, priority jobs, and DB triggers.  
+🔹 [**DevOps Docker Demo**](#) — CI/CD with GitHub Actions and Dockerized microservice.
+
+> *(Add links to each repo when ready.)*
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KapilXDev&show_icons=true&theme=tokyonight" width="47%" />
+  <img src="https://streak-stats.demolab.com?user=KapilXDev&theme=tokyonight&hide_border=true" width="47%" />
+</p>
+
+---
+
+## 📄 Resume & Profiles
+
+- 📄 [Download My Resume](https://github.com/KapilXDev/resume/blob/main/Kapil_Dev_Resume.pdf)
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-link-here/)
+- 💻 [GitHub](https://github.com/KapilXDev)
+- 🧠 LeetCode: *Coming soon*
+
+---
+
+## 📫 Contact Me
+
+📩 kapil1singh007@gmail.com
+
+Let’s build something amazing.
