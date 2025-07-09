@@ -52,8 +52,8 @@
 
 ## 📄 Resume & Links
 
-- 📄 [Download My Resume](https://github.com/KapilXDev/resume/blob/main/Kapil_Dev_Resume.pdf)
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile-here)
+- 📄 [Download My Resume](https://github.com/KapilXDev/resume/blob/main/KapilDev_Resume.pdf)
+- 💼 [LinkedIn](https://linkedin.com/in/kapil-dev-6982ba144)
 - 🔗 [GitHub](https://github.com/KapilXDev)
 - 🧠 LeetCode: *coming soon*
 
